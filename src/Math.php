@@ -8,4 +8,9 @@ class Math
     {
         return $a + $b;
     }
+
+    public function divide($a, $b)
+    {
+        return $a / $b;
+    }
 }
